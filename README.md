@@ -15,8 +15,8 @@ For achieving better results from the applied model in Machine Learning projects
 ### ALGORITHM:
 STEP 1:Importing the libraries.<BR>
 STEP 2:Importing the dataset.<BR>
-STEP 3:Taking care of missing data.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  **Developed By: DEEPIKA S**<br>
-STEP 4:Encoding categorical data.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Register No: 212222230028**<br>
+STEP 3:Taking care of missing data.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  **Developed By: SIVARAM R**<br>
+STEP 4:Encoding categorical data.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Register No: 212222100050**<br>
 STEP 5:Normalizing the data.<BR>
 STEP 6:Splitting the data into test and train.<BR>
 ###  PROGRAM:
